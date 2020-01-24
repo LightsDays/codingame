@@ -1,3 +1,1 @@
-# test_repos
-Новый тестовый репозиторий
-Тут что то написано
+Codingame. The Labyrinth
